@@ -1,4 +1,4 @@
 function alertTest() {
-alert("DANGER NIGGY!");
+alert("DANGER ZIGGY!");
 }
 
